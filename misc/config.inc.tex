@@ -1,0 +1,109 @@
+%% 	This LaTeX Template is meant for "Second Bachelor´s Thesis"
+%% 	written by Frank A Titze in March 2009
+%% 	for Hochschule Kufstein Tirol, Austria, Dep. Wirtschaftsinformatik
+%% 	www.hsk-edu.at
+%% 	@author Frank A Titze (frank.a.titze@gmx.eu)
+%% 	@copyright 2009, FAT
+%% 	@license GPL
+%% 	@version 1.0
+%%=================================================
+%% 	Main Document  Vorlage_BA2_by.fat.tex
+%% 	This document:  config.inc.tex
+%%=================================================
+\documentclass[
+	a4paper,
+	oneside,
+	11pt,
+%	DIVcalc, 	% Bei Problemen mit den Seitenrändern testweise aktivieren
+%	BCOR=5mm, 	% Zusätzlicher Binderand links
+	halfparskip, 	% Absatzabstand statt Einrückung neuer Zeile
+	headsepline, 	% Linie nach der Kopfzeile
+%	bigheadings, 	% "grössere" Überschriften
+	pointlessnumbers,
+	bibtotoc,
+	liststotoc,
+	pdftex,
+]{scrreprt}
+\usepackage{cmap}		% Für ein durchsuchbares PDF
+\usepackage[T1]{fontenc}
+\usepackage{ucs} 	% UTF8 initialisieren
+\usepackage[utf8x]{inputenc} 	% UTF8 benutzen
+\usepackage[english,ngerman]{babel} 	% Einstellungen Deutsch, aber zuvor Englisch geladen, um einige Einstellungen auf default zu setzen
+\usepackage{lmodern}
+\usepackage{palatino} 	% Schriftsatz
+\renewcommand{\sfdefault}{lmss} %default Sans Serif Font; lmss == lmodern Sans Serif
+\usepackage{ifpdf}
+\usepackage{url} 	% URLs formatieren
+\usepackage{graphicx} 	% Grafikpackage
+\usepackage[usenames]{color} 	% Farben
+\usepackage{lipsum} 	% mit \ipsum Blindtext einfügen
+\usepackage{texlogos} 	% TeX Logos
+\usepackage{eurosym} 	% EUR Symbol
+\usepackage{setspace} 	% Zeilenabstand
+\usepackage{microtype} 	% Optischer Randausgleich
+\usepackage{romannum} 	% Römische Zahlen mit \romannum oder \Romannum
+
+\setcounter{tocdepth}{4} 	% Gliederungstiefe im Inhaltsverzeichnis; Jarz´sche Vorgabe ist "vollständig"
+\setcounter{secnumdepth}{3} 	% Gliederungstiefe bis zu der Nummeriert wird
+
+\usepackage{listings} %Für Listings (einbinden eines Quellcodes)
+%Festlegungen für listings
+	\definecolor{MyCodeColor}{rgb}{0.85,0.92,0.94}
+\lstset{
+  language=PHP, %Programmiersprache; z.B.: PHP, C, C++, HTML, Java, SQL, etc. (see "listings"-Package for more Information)
+  numbers=left, %Zeilennummerierung auf der linken Seite
+  numberstyle=\scriptsize, %Zeilennummerierung kleine Schriftgröße
+  stringstyle=\ttfamily, 	% Courier Schriftart für Strings
+  showstringspaces=false, % In Strings keine Backspace zeichen
+  numbersep=5pt, % Abstand der Zeilennummern zum Code
+  basicstyle=\small, %Schriftgröße Small
+  breakatwhitespace=true,
+  breaklines=true,%
+  tabsize=4, %Tabulator wie in VisoalC++
+  commentstyle=\color{green}, %Kommentarfarbe
+  keywordstyle=\color{blue}\bfseries, %Keywörterfabe
+  backgroundcolor=\color{MyCodeColor},
+}%
+% \renewcommand{\name}[Anzahl]{Definition #1}
+\makeatletter
+\let\NAT@parse\undefined
+\newcommand{\BibTeX}{\bibtexlogo} 	% Kompatiblität
+\makeatother
+
+% Zitationen in Fußnoten erlauben
+\usepackage[round,authoryear,sort]{natbib} 	% für Darstellung der Literaturverweise im Text
+\newcommand{\footcite}[2][]{\footnote{\citealp[~vgl.][#1]{#2}}} 	% Zitierstellen in Fussnoten
+
+% Herausgestellte Zitate Kursiv
+\newenvironment{zitat}%
+{\begin{quote}\itshape}%
+{\end{quote}}%
+
+% Itemabstände bei Listen verringert
+\let\origitemize\itemize
+\def\itemize{\origitemize\itemsep-4pt}
+\let\origenumerate\enumerate
+\def\enumerate{\origenumerate\itemsep-4pt}
+\let\origdescription\description
+\def\description{\origdescription\itemsep-4pt}
+
+% Schrift in der Kopfzeile
+\setkomafont{pagehead}{\scriptsize\slshape} 	% Schrift in der Kopfzeile
+
+% Literaturverzeichnis in Quellenverzeichnis umbenennen
+\addto{\captionsngerman}{%<--entsprechend der gewählten Sprache
+  \renewcommand{\bibname}{Quellenverzeichnis} 	% statt "Literaturverzeichnis"
+%  \renewcommand{\figurename}{Abb.} 	% Abbildung durch Abb. ersetzen
+%  \renewcommand{\tablename}{Tab.} 	% Tabelle durch Tab. ersetzen
+}%
+
+% Formatierungen für Bild- und Tabellenunterschriften
+\usepackage[format=plain, 	% Bildunterschriften
+	justification=centerlast, 	% Die letzte Zeile wird zentriert
+	labelfont={small,bf,it}, 	% Abbildung <Nr> wird small, fett und italic gesetzt
+	textfont={small,singlespacing,it}, 	% Der Text wird small und italic mit einfachem Zeilenabstand gesetzt
+	width={0.8\textwidth}
+]{caption}
+
+%%EOF@fat
+

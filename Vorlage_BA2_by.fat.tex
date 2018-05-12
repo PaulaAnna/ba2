@@ -1,0 +1,87 @@
+%% 	This LaTeX Template is meant for "Second Bachelor´s Thesis"
+%% 	written by Frank A Titze in March 2009
+%% 	for Hochschule Kufstein Tirol, Austria, Dep. Wirtschaftsinformatik
+%% 	www.hsk-edu.at
+%% 	@author Frank A Titze (frank.a.titze@gmx.eu)
+%% 	@copyright 2009, FAT
+%% 	@license GPL
+%% 	@version 1.0
+%%=================================================
+%% 	Main Document  Vorlage_BA2_by.fat.tex
+%% 	This document:  Vorlage_BA2_by.fat.tex
+%%=================================================
+
+
+% Erste Konfigutationen einbinden
+\input{misc/config.inc.tex}
+
+
+
+% Hier diverse Daten angeben
+\newcommand{\mytitle}{Intelligente Plattform - Priorisierung von E-Mails in der Inbox by Gmail}
+\newcommand{\arbeit}{Bachelorarbeit \Romannum{1}}
+\newcommand{\jahrgang}{Web Business \& Technology 2015}
+\newcommand{\abgabedat}{06. Februar 2017}
+\newcommand{\betreuer}{Dr. Michael Kohlegger}
+\newcommand{\autor}{Paula Engelberg}
+\newcommand{\personalnummer}{1510653183}
+\newcommand{\mykeywords}{} 	% Meta-Keywords der Arbeit fürs PDF
+
+
+
+%============================================================
+% Weitere Konfigurationen und Abkürzungen
+%============================================================
+\input{misc/config.pdf.tex}
+\input{content/glossary} 	% Glossar, Abkürzungsverzeichnis und/oder Symbolverzeichnis
+
+%============================================================
+% Dokumentanfang und Titelei
+%============================================================
+\begin{document}
+	\input{content/title} 	% Einbinden der Titelei
+\pagenumbering{roman}
+	\input{content/eidesstattliche}
+
+%============================================================
+% Vorspann mit kleinen römischen Seitenzahlen
+%============================================================
+	\tableofcontents
+		\clearpage
+	\listoftables 	% Tabellenverzeichnis
+	\listoffigures 	% Abbildungsverzeichnis
+%	\printglossary[toctitle=Abkürzungsverzeichnis,style=super,title=Abkürzungsverzeichnis] 	% Glossar, Abkürzungsverzeichnis und/oder Symbolverzeichnis ausgeben
+	\printglossary[toctitle=Abkürzungsverzeichnis,style=listdotted,title=Abkürzungsverzeichnis] 	% Glossar, Abkürzungsverzeichnis und/oder Symbolverzeichnis ausgeben
+\clearpage
+\onehalfspacing
+	\input{content/exsummary} 	% Abstract
+
+%============================================================
+% Hauptteil
+%============================================================
+\clearpage
+\pagestyle{headings}
+\onehalfspacing
+\pagenumbering{arabic}
+	\input{content/mainmatter} 	% Hauptteil
+
+%	\input{content/beispiele}
+
+%============================================================
+% Abspann mit Anhängen und Quellenverzeichnis
+%============================================================
+\appendix 	% Ab hier Nummerierung A, B, ...
+\clearpage
+\onehalfspacing
+	\input{content/appendix} 	% Anhänge
+
+\newpage
+\singlespacing
+	\nocite{*} 	% NUR FÜR TESTZWECKE!!! Damit provoziert man ein vollständiges Literaturverzeichnis ALLER bib-Einträge; normalerweise werden nur die im Text wirklich benutzten Quellen ins Verzeichnis aufgenommen
+	\bibliographystyle{natdin} 	% Literaturverzeichnis nach DIN
+	\bibliography{misc/myStandardBIB} 	% Datei der Jabref Bibliotheksdatei .bib
+	
+%============================================================
+\end{document}
+
+%%EOF@fat
