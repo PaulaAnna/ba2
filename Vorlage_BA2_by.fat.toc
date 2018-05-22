@@ -5,13 +5,15 @@
 \contentsline {section}{\numberline {1.1}Ausgangssituation}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Problemstellung}{2}{section.1.2}
 \contentsline {section}{\numberline {1.3}Zielsetzung und Forschungsfrage}{3}{section.1.3}
-\contentsline {section}{\numberline {1.4}Aufbau der Arbeit}{3}{section.1.4}
+\contentsline {section}{\numberline {1.4}Aufbau der Arbeit}{4}{section.1.4}
 \contentsline {chapter}{\numberline {2}Grundlagen}{5}{chapter.2}
 \contentsline {section}{\numberline {2.1}Web 2.0}{5}{section.2.1}
-\contentsline {section}{\numberline {2.2}Social Media}{6}{section.2.2}
-\contentsline {section}{\numberline {2.3}Angewandte Modelle}{7}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Technology Acceptance Model}{7}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Task -Technology-Fit-Model}{7}{subsection.2.3.2}
-\contentsline {chapter}{\numberline {A}Ein Anhang}{8}{appendix.A}
-\contentsline {chapter}{\numberline {B}Noch ein Anhang}{9}{appendix.B}
-\contentsline {chapter}{\nonumberline Quellenverzeichnis}{10}{chapter*.7}
+\contentsline {subsection}{\numberline {2.1.1}Social Web}{6}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Social Media}{7}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}User Generated Content}{8}{section.2.2}
+\contentsline {section}{\numberline {2.3}Angewandte Modelle}{8}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Technology Acceptance Model}{8}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Task -Technology-Fit-Model}{8}{subsection.2.3.2}
+\contentsline {chapter}{\numberline {A}Ein Anhang}{9}{appendix.A}
+\contentsline {chapter}{\numberline {B}Noch ein Anhang}{10}{appendix.B}
+\contentsline {chapter}{\nonumberline Quellenverzeichnis}{11}{chapter*.8}

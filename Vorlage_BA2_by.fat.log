@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.30)  12 MAY 2018 10:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.30)  22 MAY 2018 20:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1019,7 +1019,7 @@ een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.56 	\newpage
-               [-1] <misc/HSK_Logo.pdf, id=83, 362.06667pt x 72.23186pt>
+               [-1] <misc/HSK_Logo.pdf, id=91, 362.06667pt x 72.23186pt>
 File: misc/HSK_Logo.pdf Graphic file (type pdf)
 
 <use misc/HSK_Logo.pdf>
@@ -1164,14 +1164,18 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 24.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 24.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 26.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 26.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 34.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 34.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 34.
+(babel)             in language  on input line 32.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 34.
+(babel)             in language  on input line 32.
 [1
 
 
@@ -1188,95 +1192,118 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 41.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 41.
- [2]
+ [2] <../../uwan.png, id=172, 764.6166pt x 292.9344pt>
+File: ../../uwan.png Graphic file (type png)
+ <use ../../uwan.png>
+Package pdftex.def Info: ../../uwan.png used on input line 44.
+(pdftex.def)             Requested size: 292.7776pt x 112.16548pt.
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 45.
+LaTeX Font Info:    Font shape `T1/ppl/bx/it' in size <10> not available
+(Font)              Font shape `T1/ppl/b/it' tried instead on input line 45.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 42.
+(babel)             in language  on input line 51.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 42.
+(babel)             in language  on input line 51.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 49.
+(babel)             in language  on input line 58.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 49.
+(babel)             in language  on input line 58.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 59.
+(babel)             in language  on input line 58.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 59.
+(babel)             in language  on input line 58.
+
+[3 <../../uwan.png>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 59.
+(babel)             in language  on input line 58.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 59.
- [3]
+(babel)             in language  on input line 58.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 61.
+(babel)             in language  on input line 70.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 61.
+(babel)             in language  on input line 70.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 61.
+(babel)             in language  on input line 70.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 61.
+(babel)             in language  on input line 70.
  [4]
 chapter 2.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 61.
+(babel)             in language  on input line 70.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 61.
+(babel)             in language  on input line 70.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 66.
+(babel)             in language  on input line 75.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 66.
+(babel)             in language  on input line 75.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 73.
+(babel)             in language  on input line 82.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 73.
+(babel)             in language  on input line 82.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 73.
+(babel)             in language  on input line 82.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 73.
+(babel)             in language  on input line 82.
 [5
 
 ]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 76.
+(babel)             in language  on input line 84.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 76.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 79.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 79.
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 84.
+(babel)             in language  on input line 84.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 89.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omsppl.fd
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 84.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 89.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 89.
+(babel)             in language  on input line 96.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 89.
+(babel)             in language  on input line 96.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 89.
+(babel)             in language  on input line 102.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 89.
+(babel)             in language  on input line 102.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 102.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 102.
  [6]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 118.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 118.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 123.
+(babel)             in language  on input line 118.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 123.
+(babel)             in language  on input line 118.
+
+[7]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 126.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 126.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 141.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 141.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 146.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 146.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <9> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 126.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 149.
 
 
-Package natbib Warning: Citation `Davis' on page 7 undefined on input line 126.
+Package natbib Warning: Citation `Davis' on page 8 undefined on input line 149.
 
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 128.
+(babel)             in language  on input line 151.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 128.
+(babel)             in language  on input line 151.
 )
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 74.
@@ -1286,7 +1313,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 74.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 74.
- [7] (./content/appendix.tex
+ [8] (./content/appendix.tex
 chapter A.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 14.
@@ -1300,7 +1327,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 16.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 16.
-[8
+[9
 
 
 ]
@@ -1318,7 +1345,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 78.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 78.
- [9
+ [10
 
 ] (./Vorlage_BA2_by.fat.bbl (./Vorlage_BA2_by.fat.brf)
 \tf@brf=\write10
@@ -1330,7 +1357,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 1.
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 28.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 27.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
@@ -1338,6 +1365,47 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `pcr' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+\T1/ppl/m/sc/10.95 (+20) Aus-tria\T1/ppl/m/n/10.95 (+20) , Mo-bi-le Mar-ke-ting
+ A.:  \T1/ppl/m/it/10.95 (+20) Mobile-Marketing-Studie: Ös-ter-rei-
+ []
+
+
+Underfull \hbox (badness 7869) in paragraph at lines 27--27
+\T1/ppl/m/it/10.95 (+20) cher in-ter-a-gie-ren mit ih-rem Mo-bil-te-le-fon be-r
+eits mehr als drei Stun-den pro
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+\T1/ppl/m/it/10.95 (+20) Tag\T1/ppl/m/n/10.95 (+20) .  [][]$\T1/pcr/m/n/10.95 h
+ttps : / / www . mmaaustria . at / single-[]post / 2017 / 10 / 18 /
+ []
+
+
+Overfull \hbox (325.66994pt too wide) in paragraph at lines 27--27
+\T1/pcr/m/n/10.95 Mobile-[]Marketing-[]Studie-[]Österreicher-[]interagieren-[]m
+it-[]ihrem-[]Mobiltelefon-[]bereits-[]mehr-[]als-[]drei-[]Stunden-[]pro-[]Tag$[
+][]
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 76.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 76.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 76.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 76.
+[11
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+\T1/pcr/m/n/10.95 / / www . e-[]teaching . org / didaktik / theorie / informell
+eslernen / Web2 .
+ []
+
 )
 
 Package natbib Warning: There were undefined citations.
@@ -1351,49 +1419,40 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 85.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 85.
-[10
-
-]
+[12]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 85.
  (./Vorlage_BA2_by.fat.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 85.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 85.
 Package rerunfilecheck Info: File `Vorlage_BA2_by.fat.out' has not changed.
-(rerunfilecheck)             Checksum: A4D89B88B1BD3816E35A33D163034933;999.
-
-
-Package rerunfilecheck Warning: File `Vorlage_BA2_by.fat.brf' has changed.
-(rerunfilecheck)                Rerun to get bibliographical references right.
-
-Package rerunfilecheck Info: Checksums for `Vorlage_BA2_by.fat.brf':
-(rerunfilecheck)             Before: F626A24188D5E1A4AE56E97944D0EA61;264
-(rerunfilecheck)             After:  56FF2CB6ABEEC551C2C8703B0AAB3099;322.
+(rerunfilecheck)             Checksum: CAC0C4BF98C9C12684E270E9746CC85B;1151.
+Package rerunfilecheck Info: File `Vorlage_BA2_by.fat.brf' has not changed.
+(rerunfilecheck)             Checksum: 6DB29880491430364185A73A08B7FA3B;519.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
- 19460 strings out of 493014
- 310547 string characters out of 6133350
- 724274 words of memory out of 5000000
- 22277 multiletter control sequences out of 15000+600000
- 79590 words of font info for 195 fonts, out of 8000000 for 9000
+ 19553 strings out of 493014
+ 311724 string characters out of 6133350
+ 725480 words of memory out of 5000000
+ 22332 multiletter control sequences out of 15000+600000
+ 84489 words of font info for 208 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,10n,66p,8573b,547s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,9n,77p,8573b,554s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
-exlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/201
-6/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2016/texmf-dist/f
-onts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
-ic/lm/lmmi10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr1
-0.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></
-usr/local/texlive/2016/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/loca
-l/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texli
-ve/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2016
-/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2016/texmf-
-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Vorlage_BA2_by.fat.pdf (19 pages, 190527 bytes).
+exlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2016/te
+xmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2016/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/
+type1/public/lm/lmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
+c/lm/lmssbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/courier/u
+crr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplb8a.p
+fb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on Vorlage_BA2_by.fat.pdf (21 pages, 268235 bytes).
 PDF statistics:
- 268 PDF objects out of 1000 (max. 8388607)
- 228 compressed objects within 3 object streams
- 49 named destinations out of 1000 (max. 500000)
- 37530 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 329 PDF objects out of 1000 (max. 8388607)
+ 285 compressed objects within 3 object streams
+ 65 named destinations out of 1000 (max. 500000)
+ 42671 words of extra memory for PDF output out of 42996 (max. 10000000)
 

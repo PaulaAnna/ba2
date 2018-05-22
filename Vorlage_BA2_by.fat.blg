@@ -10,51 +10,56 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: misc/myStandardBIB.bib
 Warning--entry type for "kurasi" isn't style-file defined
 --line 859 of file misc/myStandardBIB.bib
+Warning--entry type for "MMAA" isn't style-file defined
+--line 945 of file misc/myStandardBIB.bib
+Warning--entry type for "panke" isn't style-file defined
+--line 959 of file misc/myStandardBIB.bib
 Warning--I didn't find a database entry for "Davis"
 Warning--empty year in kurasi
+Warning--there's no year in griesbaum
 Warning--there's no year in kaplan
 Warning--there's no year in kietzmann
 Warning--there's no year in obarSocialMedia
 Warning--there's no year in oreilly
-You've used 6 entries,
+You've used 9 entries,
             4728 wiz_defined-function locations,
-            1316 strings with 18476 characters,
-and the built_in function-call counts, 3814 in all, are:
-= -- 379
-> -- 116
-< -- 97
-+ -- 120
-- -- 38
-* -- 261
-:= -- 673
-add.period$ -- 6
-call.type$ -- 6
-change.case$ -- 30
-chr.to.int$ -- 6
-cite$ -- 11
-duplicate$ -- 112
-empty$ -- 259
-format.name$ -- 72
-if$ -- 730
+            1328 strings with 19039 characters,
+and the built_in function-call counts, 5557 in all, are:
+= -- 566
+> -- 146
+< -- 183
++ -- 212
+- -- 49
+* -- 339
+:= -- 970
+add.period$ -- 9
+call.type$ -- 9
+change.case$ -- 42
+chr.to.int$ -- 9
+cite$ -- 15
+duplicate$ -- 159
+empty$ -- 362
+format.name$ -- 90
+if$ -- 1054
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 21
-newline$ -- 47
-num.names$ -- 24
-pop$ -- 72
+missing$ -- 36
+newline$ -- 62
+num.names$ -- 36
+pop$ -- 104
 preamble$ -- 1
-purify$ -- 42
+purify$ -- 60
 quote$ -- 0
-skip$ -- 202
+skip$ -- 336
 stack$ -- 0
-substring$ -- 251
-swap$ -- 17
-text.length$ -- 14
+substring$ -- 374
+swap$ -- 22
+text.length$ -- 17
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 78
-warning$ -- 5
-while$ -- 32
+type$ -- 117
+warning$ -- 6
+while$ -- 44
 width$ -- 0
-write$ -- 90
-(There were 7 warnings)
+write$ -- 126
+(There were 10 warnings)
