@@ -14,52 +14,73 @@ Warning--entry type for "MMAA" isn't style-file defined
 --line 945 of file misc/myStandardBIB.bib
 Warning--entry type for "panke" isn't style-file defined
 --line 959 of file misc/myStandardBIB.bib
-Warning--I didn't find a database entry for "Davis"
+Warning--entry type for "youtube" isn't style-file defined
+--line 1007 of file misc/myStandardBIB.bib
+Warning--entry type for "mobileos" isn't style-file defined
+--line 1229 of file misc/myStandardBIB.bib
+Warning--entry type for "stat" isn't style-file defined
+--line 1243 of file misc/myStandardBIB.bib
+Warning--there's no year in akehurst
 Warning--empty year in kurasi
+Warning--neither address nor publication date in ebersbach
+Warning--there's no year in chen
+Warning--there's no year in cox
+Warning--there's no year in terry
+Warning--neither address nor publication date in glaeser
 Warning--there's no year in griesbaum
+Warning--neither address nor publication date in kaiser
 Warning--there's no year in kaplan
 Warning--there's no year in kietzmann
+Warning--neither address nor publication date in kruse
+Warning--empty publisher in lamnek
+Warning--neither address nor publication date in mayer
+Warning--neither address nor publication date in mayring
+Warning--there's no year in morrison
 Warning--there's no year in obarSocialMedia
 Warning--there's no year in oreilly
-You've used 9 entries,
+Warning--there's no year in poch
+Warning--empty publisher in przyborski
+Warning--there's no year in ramirez
+Warning--empty publisher in wessler
+You've used 28 entries,
             4728 wiz_defined-function locations,
-            1328 strings with 19039 characters,
-and the built_in function-call counts, 5557 in all, are:
-= -- 566
-> -- 146
-< -- 183
-+ -- 212
-- -- 49
-* -- 339
-:= -- 970
-add.period$ -- 9
-call.type$ -- 9
-change.case$ -- 42
-chr.to.int$ -- 9
-cite$ -- 15
-duplicate$ -- 159
-empty$ -- 362
-format.name$ -- 90
-if$ -- 1054
+            1403 strings with 21539 characters,
+and the built_in function-call counts, 17013 in all, are:
+= -- 1691
+> -- 475
+< -- 529
++ -- 628
+- -- 161
+* -- 1082
+:= -- 3024
+add.period$ -- 27
+call.type$ -- 28
+change.case$ -- 133
+chr.to.int$ -- 28
+cite$ -- 50
+duplicate$ -- 497
+empty$ -- 1156
+format.name$ -- 288
+if$ -- 3256
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 36
-newline$ -- 62
-num.names$ -- 36
-pop$ -- 104
+missing$ -- 111
+newline$ -- 160
+num.names$ -- 113
+pop$ -- 324
 preamble$ -- 1
-purify$ -- 60
+purify$ -- 189
 quote$ -- 0
-skip$ -- 336
+skip$ -- 949
 stack$ -- 0
-substring$ -- 374
-swap$ -- 22
-text.length$ -- 17
+substring$ -- 1137
+swap$ -- 73
+text.length$ -- 56
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 117
-warning$ -- 6
-while$ -- 44
+type$ -- 319
+warning$ -- 22
+while$ -- 141
 width$ -- 0
-write$ -- 126
-(There were 10 warnings)
+write$ -- 363
+(There were 28 warnings)
