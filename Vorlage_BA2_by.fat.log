@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.30)  4 JUN 2018 18:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.30)  5 JUN 2018 00:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1028,7 +1028,7 @@ een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.56 	\newpage
-               [-1] <../fh_logo.png, id=139, 16.863pt x 10.8405pt>
+               [-1] <../fh_logo.png, id=147, 16.863pt x 10.8405pt>
 File: ../fh_logo.png Graphic file (type png)
 
 <use ../fh_logo.png>
@@ -1207,7 +1207,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 41.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 41.
- [2] <../uwan.png, id=239, 764.6166pt x 292.9344pt>
+ [2] <../uwan.png, id=250, 764.6166pt x 292.9344pt>
 File: ../uwan.png Graphic file (type png)
  <use ../uwan.png>
 Package pdftex.def Info: ../uwan.png used on input line 45.
@@ -1461,23 +1461,55 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 288.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 294.
+(babel)             in language  on input line 299.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 294.
+(babel)             in language  on input line 299.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 294.
+(babel)             in language  on input line 299.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 294.
+(babel)             in language  on input line 299.
  [19]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 300.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 300.
+
+Overfull \hbox (11.73105pt too wide) in paragraph at lines 304--306
+\T1/ppl/m/n/10.95 (-20) wer-den www.bergfex.at, www.alpenvereinaktiv.com/de und
+ www.outdooractive.com/de/
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 313.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 313.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 316.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 316.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 316.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 316.
+[20]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 319.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 319.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 319.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 319.
+ [21]
 chapter 4.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 294.
+(babel)             in language  on input line 319.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 294.
+(babel)             in language  on input line 319.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 297.
+(babel)             in language  on input line 322.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 297.
+(babel)             in language  on input line 322.
 )
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 74.
@@ -1487,7 +1519,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 74.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 74.
- [20
+ [22
 
 ] (./content/appendix.tex
 chapter A.
@@ -1496,22 +1528,22 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 14.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 16.
+(babel)             in language  on input line 18.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 16.
+(babel)             in language  on input line 18.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 16.
+(babel)             in language  on input line 18.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 16.
-[21
+(babel)             in language  on input line 18.
+[23
 
 
 ]
 chapter B.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 16.
+(babel)             in language  on input line 18.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 16.
+(babel)             in language  on input line 18.
 )
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 78.
@@ -1521,7 +1553,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 78.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 78.
- [22
+ [24
 
 ] (./Vorlage_BA2_by.fat.bbl (./Vorlage_BA2_by.fat.brf)
 \tf@brf=\write10
@@ -1574,7 +1606,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 76.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 76.
-[23
+[25
 
 ]
 Package babel Info: Redefining ngerman shorthand "|
@@ -1585,7 +1617,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 140.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 140.
- [24]
+ [26]
 Underfull \hbox (badness 10000) in paragraph at lines 152--152
 \T1/pcr/m/n/10.95 / / www . e-[]teaching . org / didaktik / theorie / informell
 eslernen / Web2 .
@@ -1611,7 +1643,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 194.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 194.
-[25])
+[27])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 85.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 85.
@@ -1621,13 +1653,13 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 85.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 85.
- [26]
+ [28]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 85.
  (./Vorlage_BA2_by.fat.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 85.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 85.
 Package rerunfilecheck Info: File `Vorlage_BA2_by.fat.out' has not changed.
-(rerunfilecheck)             Checksum: E388831C97126785451D016DA9A37596;2138.
+(rerunfilecheck)             Checksum: CA21A25260FFE9E0A53F370EF1B4A5FE;2367.
 Package rerunfilecheck Info: File `Vorlage_BA2_by.fat.brf' has not changed.
 (rerunfilecheck)             Checksum: 4569BCC25FF3235E91311B3BB1C4268C;1843.
 
@@ -1637,11 +1669,11 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
- 19869 strings out of 493014
- 315213 string characters out of 6133350
+ 19878 strings out of 493014
+ 315325 string characters out of 6133350
  733071 words of memory out of 5000000
- 22488 multiletter control sequences out of 15000+600000
- 88144 words of font info for 263 fonts, out of 8000000 for 9000
+ 22490 multiletter control sequences out of 15000+600000
+ 88299 words of font info for 265 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,10n,77p,8573b,599s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
@@ -1655,10 +1687,10 @@ fb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></u
 sr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/loca
 l/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texli
 ve/2016/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Vorlage_BA2_by.fat.pdf (36 pages, 316668 bytes).
+Output written on Vorlage_BA2_by.fat.pdf (38 pages, 321047 bytes).
 PDF statistics:
- 613 PDF objects out of 1000 (max. 8388607)
- 551 compressed objects within 6 object streams
- 144 named destinations out of 1000 (max. 500000)
- 44303 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 637 PDF objects out of 1000 (max. 8388607)
+ 573 compressed objects within 6 object streams
+ 148 named destinations out of 1000 (max. 500000)
+ 44319 words of extra memory for PDF output out of 51595 (max. 10000000)
 

@@ -24,8 +24,10 @@
 \contentsline {section}{\numberline {3.6}Auswertung}{18}{section.3.6}
 \contentsline {section}{\numberline {3.7}Ergebnisse}{19}{section.3.7}
 \contentsline {subsection}{\numberline {3.7.1}Einstiegsfrage - Wandern, fester Bestandteil des Lebens}{19}{subsection.3.7.1}
-\contentsline {chapter}{\numberline {4}Zusammenfassung und Ausblick}{20}{chapter.4}
-\contentsline {section}{\numberline {4.1}Limitierung der Arbeit}{20}{section.4.1}
-\contentsline {chapter}{\numberline {A}Ein Anhang}{21}{appendix.A}
-\contentsline {chapter}{\numberline {B}Noch ein Anhang}{22}{appendix.B}
-\contentsline {chapter}{\nonumberline Quellenverzeichnis}{23}{chapter*.11}
+\contentsline {subsection}{\numberline {3.7.2}Vorbereitung der Wandertour}{20}{subsection.3.7.2}
+\contentsline {subsection}{\numberline {3.7.3}Nutzen und Glaubw\IeC {\"u}rdigkeit von User-Generated Content in Bezug auf Wandertouren}{21}{subsection.3.7.3}
+\contentsline {chapter}{\numberline {4}Zusammenfassung und Ausblick}{22}{chapter.4}
+\contentsline {section}{\numberline {4.1}Limitierung der Arbeit}{22}{section.4.1}
+\contentsline {chapter}{\numberline {A}Ein Anhang}{23}{appendix.A}
+\contentsline {chapter}{\numberline {B}Noch ein Anhang}{24}{appendix.B}
+\contentsline {chapter}{\nonumberline Quellenverzeichnis}{25}{chapter*.11}
