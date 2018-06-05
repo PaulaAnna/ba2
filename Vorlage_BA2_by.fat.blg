@@ -14,12 +14,10 @@ Warning--entry type for "MMAA" isn't style-file defined
 --line 945 of file misc/myStandardBIB.bib
 Warning--entry type for "panke" isn't style-file defined
 --line 961 of file misc/myStandardBIB.bib
-Warning--entry type for "youtube" isn't style-file defined
---line 1009 of file misc/myStandardBIB.bib
 Warning--entry type for "mobileos" isn't style-file defined
---line 1231 of file misc/myStandardBIB.bib
+--line 1217 of file misc/myStandardBIB.bib
 Warning--entry type for "stat" isn't style-file defined
---line 1245 of file misc/myStandardBIB.bib
+--line 1231 of file misc/myStandardBIB.bib
 Warning--there's no year in akehurst
 Warning--empty year in kurasi
 Warning--neither address nor publication date in ebersbach
@@ -42,45 +40,45 @@ Warning--there's no year in poch
 Warning--empty publisher in przyborski
 Warning--there's no year in ramirez
 Warning--empty publisher in wessler
-You've used 28 entries,
+You've used 27 entries,
             4728 wiz_defined-function locations,
-            1403 strings with 21542 characters,
-and the built_in function-call counts, 17013 in all, are:
-= -- 1691
-> -- 475
-< -- 529
-+ -- 628
-- -- 161
-* -- 1082
-:= -- 3024
-add.period$ -- 27
-call.type$ -- 28
-change.case$ -- 133
-chr.to.int$ -- 28
-cite$ -- 50
-duplicate$ -- 497
-empty$ -- 1156
-format.name$ -- 288
-if$ -- 3256
+            1399 strings with 21464 characters,
+and the built_in function-call counts, 16627 in all, are:
+= -- 1656
+> -- 465
+< -- 527
++ -- 624
+- -- 158
+* -- 1057
+:= -- 2953
+add.period$ -- 26
+call.type$ -- 27
+change.case$ -- 129
+chr.to.int$ -- 27
+cite$ -- 49
+duplicate$ -- 482
+empty$ -- 1123
+format.name$ -- 282
+if$ -- 3175
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 111
-newline$ -- 160
-num.names$ -- 113
-pop$ -- 324
+missing$ -- 105
+newline$ -- 155
+num.names$ -- 109
+pop$ -- 314
 preamble$ -- 1
-purify$ -- 189
+purify$ -- 183
 quote$ -- 0
-skip$ -- 949
+skip$ -- 932
 stack$ -- 0
-substring$ -- 1137
-swap$ -- 73
-text.length$ -- 56
+substring$ -- 1124
+swap$ -- 71
+text.length$ -- 55
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 319
+type$ -- 306
 warning$ -- 22
-while$ -- 141
+while$ -- 137
 width$ -- 0
-write$ -- 363
-(There were 28 warnings)
+write$ -- 351
+(There were 27 warnings)
