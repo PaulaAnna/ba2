@@ -21,7 +21,7 @@
 \contentsline {section}{\numberline {3.3}Das Experteninterview}{14}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Die Auswahl der Experten}{15}{subsection.3.3.1}
 \contentsline {section}{\numberline {3.4}Die Leitfadenentwicklung}{16}{section.3.4}
-\contentsline {section}{\numberline {3.5}Die Druchf\IeC {\"u}rhung der Interviews}{17}{section.3.5}
+\contentsline {section}{\numberline {3.5}Die Durchf\IeC {\"u}hrung der Interviews}{17}{section.3.5}
 \contentsline {section}{\numberline {3.6}Auswertung}{18}{section.3.6}
 \contentsline {section}{\numberline {3.7}Ergebnisse}{19}{section.3.7}
 \contentsline {subsection}{\numberline {3.7.1}Einstiegsfrage - Wandern, fester Bestandteil des Lebens}{19}{subsection.3.7.1}

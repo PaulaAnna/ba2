@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.5.10)  5 JUN 2018 14:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.5.10)  5 JUN 2018 14:38
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1646,7 +1646,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 85.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 85.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 85.
 Package rerunfilecheck Info: File `Vorlage_BA2_by.fat.out' has not changed.
-(rerunfilecheck)             Checksum: A2168EC3407E6C770251A85E75E5D520;2438.
+(rerunfilecheck)             Checksum: FF99E0F71F68AD2653158C10C9859C13;2438.
 Package rerunfilecheck Info: File `Vorlage_BA2_by.fat.brf' has not changed.
 (rerunfilecheck)             Checksum: 4569BCC25FF3235E91311B3BB1C4268C;1843.
 
@@ -1676,7 +1676,7 @@ e/texlive/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
 w/palatino/uplri8a.pfb>
-Output written on Vorlage_BA2_by.fat.pdf (39 pages, 233741 bytes).
+Output written on Vorlage_BA2_by.fat.pdf (39 pages, 233750 bytes).
 PDF statistics:
  638 PDF objects out of 1000 (max. 8388607)
  577 compressed objects within 6 object streams
