@@ -37,7 +37,8 @@
 \newblock \emph{Mobile-Marketing-Studie: Österreicher interagieren mit ihrem
   Mobiltelefon bereits mehr als drei Stunden pro Tag}.
 \newblock
-  \url{https://www.mmaaustria.at/single-post/2017/10/18/Mobile-Marketing-Studie-Österreicher-interagieren-mit-ihrem-Mobiltelefon-bereits-mehr-als-drei-Stunden-pro-Tag}
+  \url{https://www.mmaaustria.at/single-post/2017/10/18/Mobile-Marketing-Studie-Österreicher-interagieren-mit-ihrem-\\
+  Mobiltelefon-bereits-mehr-als-drei-Stunden-pro-Tag}
 
 \bibitem[Chen et~al.()Chen, Xu, und Whinston]{chen}
 \dinatlabel{Chen et~al. } \textsc{Chen}, Jianqing ; \textsc{Xu}, Hong  ;

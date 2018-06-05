@@ -1,5 +1,5 @@
-This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Vorlage_BA2_by.fat.aux
 The style file: natdin.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -13,13 +13,13 @@ Warning--entry type for "kurasi" isn't style-file defined
 Warning--entry type for "MMAA" isn't style-file defined
 --line 945 of file misc/myStandardBIB.bib
 Warning--entry type for "panke" isn't style-file defined
---line 959 of file misc/myStandardBIB.bib
+--line 961 of file misc/myStandardBIB.bib
 Warning--entry type for "youtube" isn't style-file defined
---line 1007 of file misc/myStandardBIB.bib
+--line 1009 of file misc/myStandardBIB.bib
 Warning--entry type for "mobileos" isn't style-file defined
---line 1229 of file misc/myStandardBIB.bib
+--line 1231 of file misc/myStandardBIB.bib
 Warning--entry type for "stat" isn't style-file defined
---line 1243 of file misc/myStandardBIB.bib
+--line 1245 of file misc/myStandardBIB.bib
 Warning--there's no year in akehurst
 Warning--empty year in kurasi
 Warning--neither address nor publication date in ebersbach
@@ -44,7 +44,7 @@ Warning--there's no year in ramirez
 Warning--empty publisher in wessler
 You've used 28 entries,
             4728 wiz_defined-function locations,
-            1403 strings with 21539 characters,
+            1403 strings with 21542 characters,
 and the built_in function-call counts, 17013 in all, are:
 = -- 1691
 > -- 475
