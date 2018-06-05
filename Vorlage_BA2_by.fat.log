@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.30)  5 JUN 2018 00:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.30)  5 JUN 2018 13:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1493,23 +1493,23 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 316.
 [20]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 319.
+(babel)             in language  on input line 342.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 319.
+(babel)             in language  on input line 342.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 319.
+(babel)             in language  on input line 342.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 319.
+(babel)             in language  on input line 342.
  [21]
 chapter 4.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 319.
+(babel)             in language  on input line 342.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 319.
+(babel)             in language  on input line 342.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 322.
+(babel)             in language  on input line 345.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 322.
+(babel)             in language  on input line 345.
 )
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 74.
@@ -1669,11 +1669,11 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
- 19878 strings out of 493014
- 315325 string characters out of 6133350
+ 19881 strings out of 493014
+ 315352 string characters out of 6133350
  733071 words of memory out of 5000000
  22490 multiletter control sequences out of 15000+600000
- 88299 words of font info for 265 fonts, out of 8000000 for 9000
+ 88454 words of font info for 267 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,10n,77p,8573b,599s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
@@ -1687,7 +1687,7 @@ fb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></u
 sr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/loca
 l/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texli
 ve/2016/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Vorlage_BA2_by.fat.pdf (38 pages, 321047 bytes).
+Output written on Vorlage_BA2_by.fat.pdf (38 pages, 323722 bytes).
 PDF statistics:
  637 PDF objects out of 1000 (max. 8388607)
  573 compressed objects within 6 object streams
