@@ -1,4 +1,4 @@
-\select@language {ngerman}
+\babel@toc {ngerman}{}
 \contentsline {chapter}{\nonumberline Tabellenverzeichnis}{iv}{chapter*.3}
 \contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{v}{chapter*.4}
 \contentsline {section}{Abk\IeC {\"u}rzungsverzeichnis}{vi}{chapter*.5}
@@ -31,6 +31,5 @@
 \contentsline {subsection}{\numberline {3.7.5}Bessere Entscheidungen durch Online-Inhalte und Applikationen?}{24}{subsection.3.7.5}
 \contentsline {chapter}{\numberline {4}Zusammenfassung}{26}{chapter.4}
 \contentsline {section}{\numberline {4.1}Limitierungen und Ausblick}{27}{section.4.1}
-\contentsline {chapter}{\numberline {A}Ein Anhang}{1}{appendix.A}
-\contentsline {chapter}{\numberline {B}Noch ein Anhang}{29}{appendix.B}
-\contentsline {chapter}{\nonumberline Quellenverzeichnis}{30}{chapter*.13}
+\contentsline {chapter}{\numberline {A}Transkribierte Interviews}{1}{appendix.A}
+\contentsline {chapter}{\nonumberline Quellenverzeichnis}{29}{chapter*.13}
