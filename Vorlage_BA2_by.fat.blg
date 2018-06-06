@@ -1,5 +1,5 @@
-This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Vorlage_BA2_by.fat.aux
 The style file: natdin.bst
 Reallocated singl_function (elt_size=4) to 100 items from 50.
@@ -11,13 +11,13 @@ Database file #1: misc/myStandardBIB.bib
 Warning--entry type for "kurasi" isn't style-file defined
 --line 859 of file misc/myStandardBIB.bib
 Warning--entry type for "MMAA" isn't style-file defined
---line 945 of file misc/myStandardBIB.bib
+--line 919 of file misc/myStandardBIB.bib
 Warning--entry type for "panke" isn't style-file defined
---line 961 of file misc/myStandardBIB.bib
+--line 935 of file misc/myStandardBIB.bib
 Warning--entry type for "mobileos" isn't style-file defined
---line 1217 of file misc/myStandardBIB.bib
+--line 1191 of file misc/myStandardBIB.bib
 Warning--entry type for "stat" isn't style-file defined
---line 1231 of file misc/myStandardBIB.bib
+--line 1205 of file misc/myStandardBIB.bib
 Warning--there's no year in akehurst
 Warning--empty year in kurasi
 Warning--neither address nor publication date in ebersbach
@@ -27,8 +27,6 @@ Warning--there's no year in terry
 Warning--neither address nor publication date in glaeser
 Warning--there's no year in griesbaum
 Warning--neither address nor publication date in kaiser
-Warning--there's no year in kaplan
-Warning--there's no year in kietzmann
 Warning--neither address nor publication date in kruse
 Warning--empty publisher in lamnek
 Warning--neither address nor publication date in mayer
@@ -40,45 +38,45 @@ Warning--there's no year in poch
 Warning--empty publisher in przyborski
 Warning--there's no year in ramirez
 Warning--empty publisher in wessler
-You've used 27 entries,
+You've used 25 entries,
             4728 wiz_defined-function locations,
-            1400 strings with 21533 characters,
-and the built_in function-call counts, 16627 in all, are:
-= -- 1656
-> -- 465
-< -- 527
-+ -- 624
-- -- 158
-* -- 1057
-:= -- 2953
-add.period$ -- 26
-call.type$ -- 27
-change.case$ -- 129
-chr.to.int$ -- 27
-cite$ -- 49
-duplicate$ -- 482
-empty$ -- 1123
-format.name$ -- 282
-if$ -- 3175
+            1394 strings with 21243 characters,
+and the built_in function-call counts, 15210 in all, are:
+= -- 1520
+> -- 409
+< -- 475
++ -- 559
+- -- 138
+* -- 961
+:= -- 2692
+add.period$ -- 24
+call.type$ -- 25
+change.case$ -- 117
+chr.to.int$ -- 25
+cite$ -- 45
+duplicate$ -- 444
+empty$ -- 1045
+format.name$ -- 248
+if$ -- 2922
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 105
-newline$ -- 155
-num.names$ -- 109
-pop$ -- 314
+missing$ -- 99
+newline$ -- 145
+num.names$ -- 101
+pop$ -- 286
 preamble$ -- 1
-purify$ -- 183
+purify$ -- 167
 quote$ -- 0
-skip$ -- 932
+skip$ -- 845
 stack$ -- 0
-substring$ -- 1124
-swap$ -- 71
-text.length$ -- 55
+substring$ -- 1049
+swap$ -- 65
+text.length$ -- 49
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 306
-warning$ -- 22
-while$ -- 137
+type$ -- 280
+warning$ -- 20
+while$ -- 125
 width$ -- 0
-write$ -- 351
-(There were 27 warnings)
+write$ -- 327
+(There were 25 warnings)
