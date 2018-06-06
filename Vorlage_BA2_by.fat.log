@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.30)  6 JUN 2018 00:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.10.30)  6 JUN 2018 19:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1200,25 +1200,25 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 15.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 28.
+(babel)             in language  on input line 24.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 28.
+(babel)             in language  on input line 24.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 28.
+(babel)             in language  on input line 24.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 28.
+(babel)             in language  on input line 24.
  [6
 
 
 ]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 40.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 40.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 40.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 31.
+(babel)             in language  on input line 40.
  [7
 
 ])
@@ -1277,7 +1277,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 36.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 36.
- <content/uwan.png, id=263, 764.6166pt x 292.9344pt>
+ <content/uwan.png, id=265, 764.6166pt x 292.9344pt>
 File: content/uwan.png Graphic file (type png)
  <use content/uwan.png>
 Package pdftex.def Info: content/uwan.png used on input line 43.
@@ -1353,13 +1353,13 @@ File: omsppl.fd
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 90.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 92.
+(babel)             in language  on input line 93.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 92.
+(babel)             in language  on input line 93.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 92.
+(babel)             in language  on input line 93.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 92.
+(babel)             in language  on input line 93.
  [6]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 97.
@@ -1380,13 +1380,13 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 105.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 108.
+(babel)             in language  on input line 109.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 108.
+(babel)             in language  on input line 109.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 108.
+(babel)             in language  on input line 109.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 108.
+(babel)             in language  on input line 109.
  [8]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 113.
@@ -1630,9 +1630,20 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 414.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 417.
+(babel)             in language  on input line 423.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 417.
+(babel)             in language  on input line 423.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 423.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 423.
+[26
+
+]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 424.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 424.
 )
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 74.
@@ -1642,15 +1653,13 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 74.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 74.
- [26
-
-] (./content/appendix.tex
+ [27] (./content/appendix.tex
 chapter A.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 15.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 15.
-<content/Alle_Interviews.pdf, id=524, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=528, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf>
@@ -1661,7 +1670,7 @@ File: content/Alle_Interviews.pdf Graphic file (type pdf)
 Package pdftex.def Info: content/Alle_Interviews.pdf used on input line 18.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
 
-<content/Alle_Interviews.pdf, id=527, page=1, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=531, page=1, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 1>
@@ -1724,7 +1733,7 @@ been already used, duplicate ignored
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [2 <./content/Alle_Interview
 s.pdf>]
-<content/Alle_Interviews.pdf, id=558, page=2, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=562, page=2, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 2>
@@ -1758,7 +1767,7 @@ been already used, duplicate ignored
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [3 <./content/Alle_Interview
 s.pdf>]
-<content/Alle_Interviews.pdf, id=562, page=3, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=566, page=3, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 3>
@@ -1792,7 +1801,7 @@ been already used, duplicate ignored
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [4 <./content/Alle_Interview
 s.pdf>]
-<content/Alle_Interviews.pdf, id=570, page=4, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=574, page=4, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 4>
@@ -1826,7 +1835,7 @@ been already used, duplicate ignored
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [5 <./content/Alle_Interview
 s.pdf>]
-<content/Alle_Interviews.pdf, id=589, page=5, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=594, page=5, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 5>
@@ -1860,7 +1869,7 @@ been already used, duplicate ignored
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [6 <./content/Alle_Interview
 s.pdf>]
-<content/Alle_Interviews.pdf, id=594, page=6, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=598, page=6, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 6>
@@ -1894,7 +1903,7 @@ been already used, duplicate ignored
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [7 <./content/Alle_Interview
 s.pdf>]
-<content/Alle_Interviews.pdf, id=602, page=7, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=606, page=7, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 7>
@@ -1928,7 +1937,7 @@ been already used, duplicate ignored
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [8 <./content/Alle_Interview
 s.pdf>]
-<content/Alle_Interviews.pdf, id=621, page=8, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=625, page=8, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 8>
@@ -1962,7 +1971,7 @@ been already used, duplicate ignored
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [9 <./content/Alle_Interview
 s.pdf>]
-<content/Alle_Interviews.pdf, id=625, page=9, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=629, page=9, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 9>
@@ -1996,7 +2005,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.10}) has
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [10 <./content/Alle_Intervie
 ws.pdf>]
-<content/Alle_Interviews.pdf, id=633, page=10, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=637, page=10, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 10>
@@ -2030,7 +2039,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.11}) has
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [11 <./content/Alle_Intervie
 ws.pdf>]
-<content/Alle_Interviews.pdf, id=653, page=11, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=658, page=11, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 11>
@@ -2064,7 +2073,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.12}) has
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [12 <./content/Alle_Intervie
 ws.pdf>]
-<content/Alle_Interviews.pdf, id=658, page=12, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=662, page=12, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 12>
@@ -2098,7 +2107,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.13}) has
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [13 <./content/Alle_Intervie
 ws.pdf>]
-<content/Alle_Interviews.pdf, id=666, page=13, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=670, page=13, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 13>
@@ -2132,7 +2141,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.14}) has
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [14 <./content/Alle_Intervie
 ws.pdf>]
-<content/Alle_Interviews.pdf, id=685, page=14, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=689, page=14, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 14>
@@ -2166,7 +2175,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.15}) has
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [15 <./content/Alle_Intervie
 ws.pdf>]
-<content/Alle_Interviews.pdf, id=689, page=15, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=693, page=15, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 15>
@@ -2200,7 +2209,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.16}) has
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [16 <./content/Alle_Intervie
 ws.pdf>]
-<content/Alle_Interviews.pdf, id=697, page=16, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=701, page=16, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 16>
@@ -2234,7 +2243,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.17}) has
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [17 <./content/Alle_Intervie
 ws.pdf>]
-<content/Alle_Interviews.pdf, id=716, page=17, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=722, page=17, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 17>
@@ -2268,7 +2277,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.18}) has
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [18 <./content/Alle_Intervie
 ws.pdf>]
-<content/Alle_Interviews.pdf, id=721, page=18, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=726, page=18, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 18>
@@ -2302,7 +2311,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.19}) has
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [19 <./content/Alle_Intervie
 ws.pdf>]
-<content/Alle_Interviews.pdf, id=730, page=19, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=734, page=19, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 19>
@@ -2336,7 +2345,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.20}) has
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [20 <./content/Alle_Intervie
 ws.pdf>]
-<content/Alle_Interviews.pdf, id=749, page=20, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=753, page=20, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 20>
@@ -2370,7 +2379,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.21}) has
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [21 <./content/Alle_Intervie
 ws.pdf>]
-<content/Alle_Interviews.pdf, id=753, page=21, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=757, page=21, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 21>
@@ -2404,7 +2413,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.22}) has
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [22 <./content/Alle_Intervie
 ws.pdf>]
-<content/Alle_Interviews.pdf, id=761, page=22, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=765, page=22, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 22>
@@ -2438,7 +2447,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.23}) has
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [23 <./content/Alle_Intervie
 ws.pdf>]
-<content/Alle_Interviews.pdf, id=780, page=23, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=785, page=23, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 23>
@@ -2472,7 +2481,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.24}) has
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [24 <./content/Alle_Intervie
 ws.pdf>]
-<content/Alle_Interviews.pdf, id=785, page=24, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=789, page=24, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 24>
@@ -2506,7 +2515,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.25}) has
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [25 <./content/Alle_Intervie
 ws.pdf>]
-<content/Alle_Interviews.pdf, id=793, page=25, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=797, page=25, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 25>
@@ -2540,7 +2549,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.26}) has
 l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
                                                    [26 <./content/Alle_Intervie
 ws.pdf>]
-<content/Alle_Interviews.pdf, id=812, page=26, 597.50829pt x 845.0471pt>
+<content/Alle_Interviews.pdf, id=816, page=26, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 26>
@@ -2567,8 +2576,14 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 18.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 18.
- [27 <./content/Alle_Interviews.pdf>] <content/Alle_Interviews.pdf, id=817, pag
-e=27, 597.50829pt x 845.0471pt>
+pdfTeX warning (ext4): destination with the same identifier (name{page.27}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.18 ...epdf[pages=-]{content/Alle_Interviews.pdf}
+                                                   [27 <./content/Alle_Intervie
+ws.pdf>]
+<content/Alle_Interviews.pdf, id=820, page=27, 597.50829pt x 845.0471pt>
 File: content/Alle_Interviews.pdf Graphic file (type pdf)
 
 <use content/Alle_Interviews.pdf, page 27>
@@ -2721,7 +2736,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 85.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 85.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 85.
 Package rerunfilecheck Info: File `Vorlage_BA2_by.fat.out' has not changed.
-(rerunfilecheck)             Checksum: 427B8B4B9BDAB727765055FBECC8C35D;2662.
+(rerunfilecheck)             Checksum: 0DD765F7ED275A2F7BDDE668D1B33B5D;2653.
 Package rerunfilecheck Info: File `Vorlage_BA2_by.fat.brf' has not changed.
 (rerunfilecheck)             Checksum: 4569BCC25FF3235E91311B3BB1C4268C;1843.
 
@@ -2731,28 +2746,27 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
- 20837 strings out of 493014
- 332085 string characters out of 6133350
- 747525 words of memory out of 5000000
+ 20843 strings out of 493014
+ 332145 string characters out of 6133350
+ 747546 words of memory out of 5000000
  23396 multiletter control sequences out of 15000+600000
- 89074 words of font info for 275 fonts, out of 8000000 for 9000
+ 89384 words of font info for 279 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,18n,77p,8573b,611s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
-exlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2016/te
-xmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2016/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/
-type1/public/lm/lmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
-c/lm/lmssbx10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/courier/u
-crr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplb8a.p
-fb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></u
-sr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/loca
-l/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texli
-ve/2016/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Vorlage_BA2_by.fat.pdf (70 pages, 924100 bytes).
+exlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
+pe1/urw/palatino/uplb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw
+/palatino/uplbi8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palat
+ino/uplr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/upl
+r8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/palatino/uplri8a.pf
+b>
+Output written on Vorlage_BA2_by.fat.pdf (71 pages, 928685 bytes).
 PDF statistics:
- 971 PDF objects out of 1000 (max. 8388607)
- 762 compressed objects within 8 object streams
+ 970 PDF objects out of 1000 (max. 8388607)
+ 761 compressed objects within 8 object streams
  157 named destinations out of 1000 (max. 500000)
  44493 words of extra memory for PDF output out of 51595 (max. 10000000)
 

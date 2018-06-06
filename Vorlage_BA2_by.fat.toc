@@ -29,8 +29,8 @@
 \contentsline {subsection}{\numberline {3.7.3}Nutzen und Glaubw\IeC {\"u}rdigkeit von User-Generated Content in Bezug auf Wandertouren}{21}{subsection.3.7.3}
 \contentsline {subsection}{\numberline {3.7.4}Mobiltelefon, GPS und andere Applikationen}{23}{subsection.3.7.4}
 \contentsline {subsection}{\numberline {3.7.5}Bessere Entscheidungen durch Online-Inhalte und Applikationen?}{24}{subsection.3.7.5}
-\contentsline {chapter}{\numberline {4}Zusammenfassung und Ausblick}{26}{chapter.4}
-\contentsline {section}{\numberline {4.1}Limitierung der Arbeit}{26}{section.4.1}
+\contentsline {chapter}{\numberline {4}Zusammenfassung}{26}{chapter.4}
+\contentsline {section}{\numberline {4.1}Limitierungen und Ausblick}{27}{section.4.1}
 \contentsline {chapter}{\numberline {A}Ein Anhang}{1}{appendix.A}
 \contentsline {chapter}{\numberline {B}Noch ein Anhang}{29}{appendix.B}
 \contentsline {chapter}{\nonumberline Quellenverzeichnis}{30}{chapter*.13}
